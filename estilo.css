@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.titulo{
+    background-color: #bb43a1 ;
+    height: 50px;
+}
+img{
+    width: 400px;
+}
+#derecha{
+    display: inline-block;
+  vertical-align: top;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#morado{
+    color:#bb43a1 ;
+}
+#derecha2{
+    display: inline-block;
+  vertical-align: top;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#img2{
+    width: 460px;
+    
+}
+#derecha3{
+    display: inline-block;
+    vertical-align: top;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#img3{
+    width: 480px;
+}
+#img4{
+    width: 610px;
+}
+#derecha4{
+    display: inline-block;
+    vertical-align: top;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#izquierda{
+    float: left;
+}
